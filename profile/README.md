@@ -7,8 +7,7 @@ Open research group in Artificial Intelligence (AI) for Combinatorial Optimizati
 Join us on [Slack](https://join.slack.com/t/rl4co/shared_invite/zt-1ytz2c1v4-0IkQ8NQH4TRXIX8PrRmDhQ)! 
 
 
-- Makers of RL4CO -
+~ Makers of RL4CO 
 
-- 
 
 > Work in progress. Stay tuned!
