@@ -1,4 +1,4 @@
-# AI4CO
+# [AI4CO](ai4co.org)
 
 Open research group in Artificial Intelligence (AI) for Combinatorial Optimization (CO)
 
