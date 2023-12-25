@@ -8,7 +8,7 @@ Open research group in Artificial Intelligence (AI) for Combinatorial Optimizati
 Join us on [Slack](https://join.slack.com/t/rl4co/shared_invite/zt-1ytz2c1v4-0IkQ8NQH4TRXIX8PrRmDhQ)! 
 -->
 
-| News :sparkles:    | We are organizing an NCO workshop for NeurIPS 2024 - join us on the [#nco-workshop-neurips24 channel](bit.ly/ai4co-slack)! |
+| News :sparkles:    | We are organizing an NCO workshop for NeurIPS 2024 - join us on the [#nco-workshop-neurips24 channel](https://bit.ly/ai4co-slack)! |
 |---------------|:------------------------|
 
 ---
