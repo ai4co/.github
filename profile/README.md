@@ -1,7 +1,8 @@
-
-<p align="center">
-  <img  width="50%" src="https://github.com/ai4co/rl4co/assets/48984123/2f1298ef-15e1-4a66-9741-78ee75938789">
-</p>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/ai4co_animated_full.svg" alt="AI4CO Logo" style="width: 50%; height: auto;">
+</div>
+<br>
+</br>
 
 Open research group in Artificial Intelligence (AI) for Combinatorial Optimization (CO) ⚡
 
